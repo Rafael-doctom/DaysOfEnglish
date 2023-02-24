@@ -9,3 +9,4 @@
 | 04  | 05/01/2023 | Day04 | [Link](days/day04/readme.md) |
 | 05  | 19/01/2023 | Day05 | [Link](days/day05/readme.md) |
 | 06  | 31/01/2023 | Day06 | [Link](days/day06/readme.md) |
+| 06  | 24/02/2023 | Day06 | [Link](days/day07/readme.md) |
