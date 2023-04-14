@@ -1,7 +1,15 @@
+import Cards from '../../molecules/cards';
+
+// styles
+import * as S from './style';
+
 const Main = () => {
-    return(
+    return (
         <>
-            <h1>Under construction</h1>
+            <S.Container>
+                {/* <h1>Under construction</h1> */}
+                <Cards />
+            </S.Container>
         </>
     )
 }

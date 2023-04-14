@@ -5,7 +5,7 @@ const Navbar = () => {
     return (
         <>
             <S.Navbar>
-                <S.Logo>GITHUB</S.Logo>
+                <S.Logo>DaysEnglish</S.Logo>
                 <S.Ul>
                     <S.Li>
                         DarkMode

@@ -5,8 +5,14 @@ export const Navbar = styled.nav`
     justify-content:space-between;
     color:var(--color-white);
     width:90%;
-    margin:0 auto;
+    margin:1rem auto;
     font-size:1rem;
+
+    padding:1rem;
+    border-radius:40px;
+
+    background:var( --card-bg-color);
+
 `;
 
 export const Logo = styled.h1`

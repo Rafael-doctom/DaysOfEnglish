@@ -18,6 +18,10 @@ code {
   --card-bg-color: #5f55d0;
   --color-white: white;
   --bg-header: rgb(41, 39, 39);
+  --bg: #490AAC;
+  --bg-white: #FFFFFF;
+  --bg-hover: #1630c2a6;
+  --gray: #8A8A8A;
 }
 
 
@@ -29,8 +33,3 @@ a {
   list-style: none;
 }
 
-h1{
-  text-align: center;
-  font-size: 5rem;
-  margin: 5rem auto;
-}
